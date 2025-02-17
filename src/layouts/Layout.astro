@@ -1,22 +1,37 @@
+---
+import './src/styles/global.css';
+
+
+const baseTitle = 'Jaroslav Pavlíček';
+const title = Astro.props.frontmatter?.title
+	? `${baseTitle} | ${Astro.props.frontmatter.title}`
+	: baseTitle;
+---
+
 <!doctype html>
-<html lang="en">
+<html lang="cs">
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="generator" content={Astro.generator} />
-		<title>Astro Basics</title>
+		<title>{title}</title>
 	</head>
-	<body>
-		<slot />
+	<body class="font-serif">
+		<div class="mx-auto w-full min-w-60 sm:w-3/4 xl:w-1/2">
+			<nav class="my-8 flex gap-4">
+				<a href="/">Úvod</a>
+				<a href="/aktuality">Aktuality</a>
+				<a href="/prirucka">Příručka</a>
+				<a href="/reference">Reference</a>
+				<a href="/seminare">Semináře</a>
+			</nav>
+			<article class="prose max-w-none">
+				<slot />
+			</article>
+			<footer class="my-8">
+				Copyright Jaroslav Pavlíček 2025
+			</footer>
+		</div>
 	</body>
 </html>
-
-<style>
-	html,
-	body {
-		margin: 0;
-		width: 100%;
-		height: 100%;
-	}
-</style>
