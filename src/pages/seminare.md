@@ -1,5 +1,6 @@
 ---
 layout: '../layouts/Layout.astro'
+title: Semináře a výcvik
 ---
 
 # Výcvik / semináře

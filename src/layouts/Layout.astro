@@ -1,10 +1,10 @@
 ---
 import './src/styles/global.css';
 
-
 const baseTitle = 'Jaroslav Pavlíček';
-const title = Astro.props.frontmatter?.title
-	? `${baseTitle} | ${Astro.props.frontmatter.title}`
+const providedTitle = Astro.props.title || Astro.props.frontmatter?.title;
+const title = providedTitle
+	? `${baseTitle} | ${providedTitle}`
 	: baseTitle;
 ---
 
@@ -18,8 +18,8 @@ const title = Astro.props.frontmatter?.title
 		<title>{title}</title>
 	</head>
 	<body class="font-serif">
-		<div class="mx-auto w-full min-w-60 sm:w-3/4 xl:w-1/2">
-			<nav class="my-8 flex gap-4">
+		<div class="mx-auto w-full p-4 min-w-60 sm:w-3/4 xl:w-1/2">
+			<nav class="mb-6 flex gap-4 flex-wrap">
 				<a href="/">Úvod</a>
 				<a href="/aktuality">Aktuality</a>
 				<a href="/prirucka">Příručka</a>
@@ -29,8 +29,8 @@ const title = Astro.props.frontmatter?.title
 			<article class="prose max-w-none">
 				<slot />
 			</article>
-			<footer class="my-8">
-				Copyright Jaroslav Pavlíček 2025
+			<footer class="my-8 text-right">
+				&copy; Jaroslav Pavlíček {new Date().getFullYear()}
 			</footer>
 		</div>
 	</body>
