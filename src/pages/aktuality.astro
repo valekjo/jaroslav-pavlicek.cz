@@ -15,7 +15,7 @@ const posts = await Promise.all(news.reverse().map(async (entry) => {
         return (
             <h2>{data.title}</h2>
             <Content />
-            <small>Přidáno {data.date.toLocaleDateString()}</small>
+            <small>Přidáno {data.date.toLocaleDateString('cs-CZ')}</small>
         );
     })}
 </Layout>

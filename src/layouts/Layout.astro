@@ -1,11 +1,22 @@
 ---
 import '../styles/global.css';
+import Menu from '../components/Menu.astro';
+
+// TODO: Colors
+// TODO: Accessibility
+// TODO: Rss feed
 
 const baseTitle = 'Jaroslav Pavlíček';
 const providedTitle = Astro.props.title || Astro.props.frontmatter?.title;
 const title = providedTitle
 	? `${baseTitle} | ${providedTitle}`
 	: baseTitle;
+
+const description = Astro.props.description
+	|| Astro.props.frontmatter?.description
+	|| 'Jaroslav Pavlíček se celý svůj život zaměřuje na výzkum přežití v divočině a na soužití člověka s přírodou.';
+
+
 ---
 
 <!doctype html>
@@ -16,16 +27,12 @@ const title = providedTitle
 		<link rel="icon" href="/favicon.ico" type="image/x-icon" />
 		<meta name="generator" content={Astro.generator} />
 		<title>{title}</title>
+		<meta name="description" content={description} />
+		<meta property="og:image" content={`${Astro.site}/og/jaroslav-pavlicek.jpeg`}/>
 	</head>
 	<body class="font-serif">
-		<div class="mx-auto w-full p-4 min-w-60 sm:w-3/4 xl:w-1/2">
-			<nav class="mb-6 flex gap-4 flex-wrap">
-				<a href="/">Úvod</a>
-				<a href="/aktuality">Aktuality</a>
-				<a href="/prirucka">Příručka</a>
-				<a href="/reference">Reference</a>
-				<a href="/seminare">Semináře</a>
-			</nav>
+		<div class="mx-auto w-full p-4 min-w-60 max-w-[40rem]">
+			<Menu class="mb-6" pathname={Astro.url.pathname}/>
 			<article class="prose max-w-none">
 				<slot />
 			</article>

@@ -1,0 +1,12 @@
+---
+const items = [
+    { url: '/', label: 'Úvod' },
+    { url: '/aktuality', label: 'Aktuality' },
+    { url: '/prirucka', label: 'Příručka' },
+    { url: '/reference', label: 'Reference' },
+    { url: '/seminare', label: 'Semináře' },
+];
+---
+<nav class={`${Astro.props.class} flex gap-4 flex-wrap justify-evenly sm:justify-normal`}>
+    {items.map(({ url, label}) => <a href={url} class={`${Astro.props.pathname === url ? 'underline' : ''} hover:underline active:underline`}>{label}</a>)}
+</nav>
