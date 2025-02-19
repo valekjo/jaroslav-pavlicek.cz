@@ -7,12 +7,7 @@ const items = [
     { url: '/seminare', label: 'Semináře' },
 ];
 
-const isActive = (url: string) => {
-    const { pathname } = Astro.props;
-    if (url === '/') return pathname === url;
-    return Astro.props.pathname.startsWith(url);
-}
 ---
 <nav class={`${Astro.props.class} flex gap-4 flex-wrap justify-evenly sm:justify-normal`}>
-    {items.map(({ url, label}) => <a href={url} class={`${ isActive(url) ? 'underline' : ''} hover:underline active:underline`}>{label}</a>)}
+    {items.map(({ url, label}) => <a href={url}>{label}</a>)}
 </nav>
