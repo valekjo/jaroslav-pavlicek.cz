@@ -20,6 +20,17 @@ Hlavička začíná a končí třemi pomlčkami `---` a musí obsahovat datum pu
 
 Za hlavičkou následuje samotný obsah, tam je možné používat základní formátování.
 
+Je tedy možné začít třeba s tímto obsahem, a ten dále upravovat:
+
+```
+---
+date: 2025-01-01
+title: 'Seminář Trosečník v drsné přírodě'
+---
+
+Dne toho a toho, tam a tam.
+```
+
 Pro kurzívu stačí daný text začít a ukončit hvězdičkou, pro tučný text dvěma hvězdičkami. Např. `Tento text bude *kurzívou* a tento **tučně**.`
 
 Mezi odstavci je třeba nechat jeden prázdný řádek.
