@@ -3,9 +3,11 @@ import { getCollection, render } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
 
 const news = await getCollection('news');
-const posts = await Promise.all(news.reverse().map(async (entry) => {
-    const { Content } = await render(entry);
-    return { Content, data: entry.data };
+const posts = await Promise.all(news
+    .sort((a, b) => +b.data.date - +a.data.date)
+    .map(async (entry) => {
+        const { Content } = await render(entry);
+        return { Content, data: entry.data };
 }));
 ---
 
