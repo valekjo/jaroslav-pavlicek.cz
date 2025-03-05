@@ -14,4 +14,4 @@ Seminář Jihlava, Čajovna u Zlatého Stromu, čtvrtek 20. 3. v 19.00
 
 ## Petra Procházková v Písku
 
-14.3. Pátek - Písek, knihovna, Ukrajina - Petra Procházková
+14.3. Pátek - Písek, knihovna, Ukrajina - Procházková
