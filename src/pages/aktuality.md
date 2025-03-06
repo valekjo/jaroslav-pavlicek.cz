@@ -6,7 +6,7 @@ layout: '../layouts/Layout.astro'
 
 ## Seminář Jihlava
 
-Seminář Jihlava, Čajovna u Zlatého Stromu, čtvrtek 20. 3. v 19.0
+Seminář Jihlava, Čajovna u Zlatého Stromu, čtvrtek 20. 3. v 19.0 výcvik
 
 Úterý 18.3.18,00 Tomáš Holub, Týn - Čihovice
 
@@ -15,6 +15,8 @@ Seminář Jihlava, Čajovna u Zlatého Stromu, čtvrtek 20. 3. v 19.0
 seminář výcvik skautský institut Jihlava koncem dubna
 
 Olga Lomová ne/srozumitelná Čína,28.3.18,00 fara na Václavce, Praha 5
+
+
 
 
 
