@@ -14,7 +14,9 @@ Písek, knihovna,14.3. Pátek
 
 seminář výcvik skautský institut Jihlava koncem dubna
 
-**Olga Lomová ne/srozumitelná Čína** 28.3.18,00 fara na Václavce, Praha 5
+**Olga Lomová ne/srozumitelná Čína** 28.3.18,00 fara na Václavce, Praha 5, Smíchov 
+
+
 
 
 
