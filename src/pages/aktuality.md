@@ -14,7 +14,7 @@ Písek, knihovna,14.3. Pátek
 
 seminář výcvik skautský institut Jihlava koncem dubna
 
-**Olga Lomová ne/srozumitelná Čína** omluva,bude později 
+**Olga Lomová ne/srozumitelná Čína** omluva,bude později,Náhrada ČLOVĚK V DRSNÉ PŘÍRODĚ a  ukrajina.  27.3.středa J.PAVLÍČEK 
 
 čtvrtek 28.3.18,00 Plzeň Božkov ostrov, seminář vycvik 45 min.,pak pivo
 
