@@ -5,7 +5,7 @@ layout: '../layouts/Layout.astro'
 # Aktuality
 
 ## Seminář Jihlava
-Čajovna u Zlatého Stromu, čtvrtek 20. 3. v 19.00
+Čajovna u Zlatého Stromu, čtvrtek 20. 3. v 19.00,výcvik 45min. ,předtím krátce ukrajina. 
 
 **Úterý 18.3.18,00 Tomáš Holub, Týn - Čihovice**
 
