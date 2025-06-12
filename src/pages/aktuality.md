@@ -19,6 +19,12 @@ seminář výcvik skautský institut Jihlava koncem dubna
 středa 26.3.18,00 Plzeň Božkov ostrov, seminář vycvik 45 min.,pak pivo
 
 
+**DOBRÁ na Šumavě**
+21.6.17,00 seminař 45 min.pak posezení,Ukrajina,Čína,Indie ap.,
+
+**LWOV na 2dny vlakem**
+
+
 
 
 
