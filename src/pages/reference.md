@@ -11,4 +11,4 @@ title: Reference
 
 ### Marek Orko Vácha
 
-### Martin Holík
+### Šimon Heller
