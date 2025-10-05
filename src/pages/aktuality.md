@@ -7,14 +7,18 @@ layout: '../layouts/Layout.astro'
 ## Seminář Jihlava
 Čajovna u Zlatého Stromu, čtvrtek 20. 3. v 19.00,výcvik 45min. ,předtím krátce ukrajina.
 
+
 **Antaktida,fara ČCE Písek**
 čtvrtek, 9.10. v 18,00 hodin,sólo zimující Petr Najman
+
 
 **(Ne)srozumitelná justice,knihovna Písek**
 pondělí, 13.10. v 17,00 hodin, JUDr Lenka Bradáčová
 
+
 **Co se děje na divokém východě, Špejchar Týn n.Vlt.**
-úterý, 14.10. v 18,00 hodin, Petra Procházková 
+úterý, 14.10. v 18,00 hodin, Petra Procházková
+
  
 
 
