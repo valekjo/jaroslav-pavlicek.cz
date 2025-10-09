@@ -22,6 +22,8 @@ pondělí, 13.10. v 17,00 hodin, JUDr Lenka Bradáčová
 **Co se děje na divokém východě, Špejchar Týn n.Vlt.**
 úterý, 14.10. v 18,00 hodin, Petra Procházková
 
+
+
  
 
 
