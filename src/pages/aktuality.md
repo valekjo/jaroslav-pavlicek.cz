@@ -8,7 +8,7 @@ layout: '../layouts/Layout.astro'
 
 seminář Jihlava,Čajovna u Zlatého Stromu, čtvrtek 20. 3. v 19.00,výcvik 45min. ,předtím krátce ukrajina.
 
-Lvov,2denní Ukrajina,20-21.9.
+.
 
 
 **Antaktida,fara ČCE Písek**
@@ -30,9 +30,9 @@ pondělí, 13.10. v 17,00 hodin, JUDr Lenka Bradáčová
 
 
 
-**LWOV na 2dny vlakem**říjen, listopad
+**LWOV na 2dny vlakem** prosinec17-20.12.2025
 
-
+Marek ORKO Vácha :Tlačit věci do plusu,Písek,knihovna,14.1.2026 středa 17,00
 
 
 
