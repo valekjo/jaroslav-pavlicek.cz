@@ -29,7 +29,7 @@ pondělí, 13.10. v 17,00 hodin, JUDr Lenka Bradáčová
 
 **Ne-Srozumitelná justice**Zlín,hvězdarna,5.2,17,00 Lenka Bradáčová
 
-**seminář,Brno,** 6.2.18,00 ukázky výstroje
+**seminář,Brno,** 6.2.18,00,Renčova 5, ukázky výstroje
 
 
 
