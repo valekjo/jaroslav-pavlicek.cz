@@ -6,7 +6,7 @@ layout: '../layouts/Layout.astro'
 
 
 
-seminář Jihlava,Čajovna u Zlatého Stromu, čtvrtek 20. 3. v 19.00,výcvik 45min. ,předtím krátce ukrajina.
+seminář Jihlava,Čajovna u Zlatého Stromu čtvrtek 20. 3. v 19.00,výcvik 45min. ,předtím krátce ukrajina.
 
 .
 
@@ -20,20 +20,14 @@ pondělí, 13.10. v 17,00 hodin, JUDr Lenka Bradáčová
 
 
 **Co se děje na divokém východě, Špejchar Týn n.Vlt.**
-úterý, 14.10. v 18,00 hodin, Petra Procházková
-
-
-
+úterý, 14.10. v 18,00 hodin, Petra Procházkov
  
 
+**LWOV na 3dny vlakem** leden 21-25.1.2026
 
-
-
-
-**LWOV na 2dny vlakem** prosinec17-20.12.2025
-
-Marek ORKO Vácha :Tlačit věci do plusu,Písek,knihovna,14.1.2026 středa 17,00
-
+**Marek ORKO Vácha** :Tlačit věci do plusu,Písek,knihovna,14.1.2026 středa 17,00
+**Ne-Srozumitelná justice**Zlín,hvězdarna,5.2,17,00 Lenka Bradáčová
+**seminář,Brno,** 6.2.18,00 ukázky výstroje
 
 
 
