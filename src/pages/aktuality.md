@@ -23,13 +23,15 @@ pondělí, 13.10. v 17,00 hodin, JUDr Lenka Bradáčová
 úterý, 14.10. v 18,00 hodin, Petra Procházkov
  
 
-**LWOV na 3dny vlakem** leden 21-25.1.2026
+**LWOV na 3dny vlakem** únor 25-1.3.2026 cca 1500 vše 
 
 **Marek ORKO Vácha** :Tlačit věci do plusu,Písek,knihovna,14.1.2026 středa 17,00
 
+SAMSA-lucerna 15-18,00 středa 28.1.prg  setkání
+
 **Ne-Srozumitelná justice**Zlín,hvězdarna,5.2,18,00 Lenka Bradáčová
 
-**seminář,Brno,** 6.2.18,00,Renčova 5, ukázky výstroje
+**seminář,Brno,** 6.2.17,00,Renčova 5, ukázky výstroje
 
 
 
