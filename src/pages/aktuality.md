@@ -33,6 +33,8 @@ SAMSA-lucerna 15-18,00 středa 28.1.prg  setkání
 
 **seminář,Brno,** 6.2.17,00,Renčova 5, ukázky výstroje
 
+Kriminalogické aspekty v extremních podmínkach (andre,italia,de long)16.2.17,00 Praha J.P. 
+
 
 
 
