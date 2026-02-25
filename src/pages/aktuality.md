@@ -32,7 +32,7 @@ SAMSA-lucerna 15-18,00 středa 28.1.prg  setkání
 
 Kriminalogické aspekty v extremních podmínkach (andre,italia,de long)16.2.17,00 Praha J.P.
 
-1.března kafe Grand Brno,8,30-9,45 čerstvé novinky z ukrajiny,přežití civilistů,Italia 100 let 
+1.března kafe Grand Brno,8,30-9,45 čerstvé novinky z ukrajiny,přežití civilistů,Italia 100 let, 
 
 seminář Brno,Jaselska 193,1.3.17,00 zkušenosti trosečniku,výcvik 45 min., J.P. 
 
