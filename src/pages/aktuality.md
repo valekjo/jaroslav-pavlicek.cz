@@ -20,7 +20,7 @@ pondělí, 13.10. v 17,00 hodin, JUDr Lenka Bradáčová
 úterý, 14.10. v 18,00 hodin, Petra Procházkov
  
 
-**LWOV na 3dny vlakem** únor 25-1.3.2026 cca 1500 vše 
+**LWOV na 3dny vlakem** březen 25-29.3.2026 cca 1500 vše 
 
 **Marek ORKO Vácha** :Tlačit věci do plusu,Písek,knihovna,14.1.2026 středa 17,00
 
