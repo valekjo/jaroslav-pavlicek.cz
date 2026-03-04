@@ -36,6 +36,7 @@ Kriminalogické aspekty v extremních podmínkach (andre,italia,de long)16.2.17,
 
 seminář Brno,Jaselska 193,1.3.17,00 zkušenosti trosečniku,výcvik 45 min., J.P. 
 
+Golem a MŽD, Martin VOPĚNKA,17.3.17,00 Písek-knihovna
 
 
 
