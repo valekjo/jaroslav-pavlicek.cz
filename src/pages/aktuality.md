@@ -38,6 +38,8 @@ seminář Brno,Jaselska 193,1.3.17,00 zkušenosti trosečniku,výcvik 45 min., J
 
 Golem a MŽD, Martin VOPĚNKA,17.3.17,00 Písek-knihovna
 
+PŘEŽÍTÍ.cz,24-26.4.Písek,80km,24h,100g potravin
+
 
 
 
