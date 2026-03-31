@@ -18,7 +18,6 @@ pondělí, 13.10. v 17,00 hodin, JUDr Lenka Bradáčová
 
 **Co se děje na divokém východě, Špejchar Týn n.Vlt.**
 úterý, 14.10. v 18,00 hodin, Petra Procházkov
- 
 
  
 
@@ -30,22 +29,17 @@ SAMSA-lucerna 15-18,00 středa 28.1.prg  setkání
 
 **seminář,Brno,** 6.2.17,00,Renčova 5, ukázky výstroje
 
-Kriminalogické aspekty v extremních podmínkach (andre,italia,de long)16.2.17,00 Praha J.P.
-
-1.března kafe Grand Brno,8,30-9,45 čerstvé novinky z ukrajiny,přežití civilistů,Italia 100 let, , 
+Kriminalogické aspekty v extremních podmínkach (andre,italia,de long)16.2.17,00 Praha J.P. 
 
 seminář Brno,Jaselska 193,1.3.17,00 zkušenosti trosečniku,výcvik 45 min., J.P. 
 
-Golem a MŽD, Martin VOPĚNKA,17.3.17,00 Písek-knihovna
-
-29.3-Brno zvonařka kafe ledabyl 15,15-16-15 
-
-29.3.cejl.35 18,00 seminař, pak kafe,
+Golem a Moje Židovská Duše, Martin VOPĚNKA,17.3.17,00 Písek-knihovna
 
 PŘEŽÍTÍ.cz,24-26.4.Písek,80km,24h,100g potravin
 
-**LWOV na 3dny vlakem** duben 1-5.4.2026 cca 1500 vše
+**LWOV na 3dny vlakem** duben 8-12.4.2026 cca 1500 vše
 
+5.5. Ostrava, semináře,
 
 
 
