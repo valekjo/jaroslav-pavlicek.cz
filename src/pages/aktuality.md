@@ -35,9 +35,9 @@ seminář Brno,Jaselska 193,1.3.17,00 zkušenosti trosečniku,výcvik 45 min., J
 
 Golem a Moje Židovská Duše, Martin VOPĚNKA,17.3.17,00 Písek-knihovna
 
-PŘEŽÍTÍ.cz,24-26.4.Písek,80km,24h,100g potravin
+PŘEŽÍTÍ.Fara ČCE Písek 17,00 pátek24-26.4.Písek,80km,24h,100g potravin
 
-**LWOV na 3dny vlakem** duben 8-12.4.2026 cca 1500 vše
+**LWOV na 3dny vlakem** květen 13-17.5.2026 cca 1500 vše
 
 5.5. Ostrava, semináře,
 
