@@ -29,14 +29,13 @@ SAMSA-lucerna 15-18,00 středa 28.1.prg  setkání
 
 **seminář,Brno,** 6.2.17,00,Renčova 5, ukázky výstroje
 
-Kriminalogické aspekty v extremních podmínkach (andre,italia,de long)16.2.17,00 Praha J.P. 
-
-seminář Brno,Jaselska 193,1.3.17,00 zkušenosti trosečniku,výcvik 45 min., J.P. 
-
+Kriminalogické aspekty v extremních podmínkach (andre,italia,de long)16.2.17,00 Praha J.P.
+ 
 Golem a Moje Židovská Duše, Martin VOPĚNKA,17.3.17,00 Písek-knihovna
 
-PŘEŽÍTÍ.Fara ČCE Písek 17,00 pátek24-26.4.Písek,80km,24h,100g potravin
-
+PŘEŽÍTÍ.Fara ČCE Písek 17,00 pátek24-26.4.Písek,80km,24h,100g potravin.
+     Třetina uspěla v 27 ročniku.Za rok opět.Nejstarší 61 ze Zlína. 
+     
 **LWOV na 3dny vlakem** květen 13-17.5.2026 cca 1500 vše
 
 5.5. Ostrava, semináře,
