@@ -37,6 +37,7 @@ PŘEŽÍTÍ.Fara ČCE Písek 17,00 pátek24-26.4.Písek,80km,24h,100g potravin.
     Jen třetina uspěla v 27 ročniku.Za rok opět.Nejstarší 61 ze Zlína. 
      
 **LWOV na 3dny vlakem** 1-5.7.2026 cca 1500 vše,ukrajina v praxi,poučení
+příhlasit na j.pavlicek@email.cz .kuirziste přednost.
 
 5.5. Ostrava, semináře,gympl,ATLANTIS,posezení
 
