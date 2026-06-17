@@ -43,7 +43,7 @@ příhlasit na j.pavlicek@email.cz .kuirziste přednost.
 
 2.anglický Trosečník s letošními poznatky vyšel.
 
-18.6.Olomouc, Blahoslavova,Z.MAŠÍNOVÁ,pohřeb
+18.6.Olomouc,13,00  Blahoslavova,Z.MAŠÍNOVÁ,pohřeb
 
 22.6.pondělí Písek,seminář,posezení po akci
 
