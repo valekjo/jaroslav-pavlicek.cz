@@ -20,9 +20,6 @@ Kriminalogické aspekty v extremních podmínkach (andre,italia,de long)16.2.17,
 
 Golem a Moje Židovská Duše, Martin VOPĚNKA,17.3.17,00 Písek-knihovna
      
-**LWOV na 3dny vlakem** 1-5.7.2026 cca 1500 vše,ukrajina v praxi,poučení
-příhlasit na j.pavlicek@email.cz .kuirziste přednost.
-
 5.5. Ostrava, semináře,gympl,ATLANTIS,posezení
 
 2.anglický Trosečník s letošními poznatky vyšel.
@@ -31,6 +28,8 @@ příhlasit na j.pavlicek@email.cz .kuirziste přednost.
 
 22.6.pondělí Písek,seminář,posezení po akci
 
+**LWOV na 3dny vlakem** 1-5.7.2026 cca 1500 vše,ukrajina v praxi,poučení
+příhlasit na: j.pavlicek@email.cz .Kurziste přednost.
 
 
 
