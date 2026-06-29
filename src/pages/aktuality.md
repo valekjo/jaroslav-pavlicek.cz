@@ -3,18 +3,24 @@ layout: '../layouts/Layout.astro'
 ---
 
 # Aktuality
+Prázdninový výcvik trosečniků 45min.
+příručku 250kč dodám
+kdy,kde napiš: jaroslav-pavlicek.cz
+POTVRDÍM , Jarda
+viz reference
+
 
 **(Ne)srozumitelná justice,knihovna Písek**
-pondělí, 13.10. v 17,00 hodin, JUDr Lenka Bradáčová
+pondělí, 13.10.2025 v 17,00 hodin, JUDr Lenka Bradáčová
 
 **Co se děje na divokém východě, Špejchar Týn n.Vlt.**
-úterý, 14.10. v 18,00 hodin, Petra Procházková
+úterý, 14.10.2025 v 18,00 hodin, Petra Procházková
 
 **Marek ORKO Vácha** :Tlačit věci do plusu,Písek,knihovna,14.1.2026 středa 17,00
 
 SAMSA-lucerna 15-18,00 středa 28.1. setkání 3roky od volby Pavla
 
-**Ne-Srozumitelná justice**Zlín,hvězdarna,5.2,18,00 Lenka Bradáčová
+**Ne-Srozumitelná justice**Zlín,hvězdarna,5.2,2026 18,00 Lenka Bradáčová
 
 Kriminalogické aspekty v extremních podmínkach (andre,italia,de long)16.2.17,00 Praha J.P.
 
