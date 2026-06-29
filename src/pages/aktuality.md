@@ -5,7 +5,7 @@ layout: '../layouts/Layout.astro'
 # Aktuality
 Prázdninový výcvik trosečniků 45min.
 příručku 250kč dodám
-kdy,kde napiš: jaroslav-pavlicek.cz
+kdy,kde napiš: j.pavlicek@email.cz
 POTVRDÍM , Jarda
 viz reference
 
