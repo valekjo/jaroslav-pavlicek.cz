@@ -3,11 +3,10 @@ layout: '../layouts/Layout.astro'
 ---
 
 # Aktuality
-Prázdninový výcvik trosečniků 45min.
-příručku 250kč dodám
+ VÝCVIK 45min.
 kdy,kde napiš: j.pavlicek@email.cz
 POTVRDÍM , Jarda
-viz reference
+
 
 
 **(Ne)srozumitelná justice,knihovna Písek**
@@ -28,14 +27,13 @@ Golem a Moje Židovská Duše, Martin VOPĚNKA,17.3.17,00 Písek-knihovna
      
 5.5. Ostrava, semináře,gympl,ATLANTIS,posezení
 
-2.anglický Trosečník s letošními poznatky vyšel.
+15.6.Trosečník s čerstvými poznatky vyšel anglicky.250kč
 
 18.6.Olomouc,13,00  Blahoslavova,Z.MAŠÍNOVÁ,pohřeb
 
 22.6.pondělí Písek,seminář,posezení po akci
 
-**LWOV na 3dny vlakem** 1-5.7.2026 cca 1500 vše,ukrajina v praxi,poučení
-příhlasit na: j.pavlicek@email.cz .Kurziste přednost.
+**LWOV na 3dny vlakem** 1-5.7.2026 cca 1500 vše,ukrajina v praxi,provedeno.Dar předány.
 
 
 
