@@ -35,7 +35,7 @@ Golem a Moje Židovská Duše, Martin VOPĚNKA,17.3.17,00 Písek-knihovna
 
 **LWOV na 3dny vlakem** 1-5.7.2026 cca 1500 vše,ukrajina v praxi,provedeno.Dar předány.
 
-14.7.ÚTERÝ PLZEN,červený hrádek,hospůdka u ženíšků,20,00  menší setkání trampu,lezcu,turistu s novinkami přežití a UKRAJINY
+14.7.ÚTERÝ PLZEN,Č.HRÁDEK,19,45 u ženíšků,menší setkání trampu,lezcu,turistu s novinkami přežití a UKRAJINY
 
 
 
