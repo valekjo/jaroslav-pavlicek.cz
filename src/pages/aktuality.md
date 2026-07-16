@@ -24,18 +24,16 @@ SAMSA-lucerna 15-18,00 středa 28.1. setkání 3roky od volby Pavla
 Kriminalogické aspekty v extremních podmínkach (andre,italia,de long)16.2.17,00 Praha J.P.
 
 Golem a Moje Židovská Duše, Martin VOPĚNKA,17.3.17,00 Písek-knihovna
-     
-5.5. Ostrava, semináře,gympl,ATLANTIS,posezení
-
+    
 15.6.Trosečník s čerstvými poznatky vyšel anglicky.250kč
 
 18.6.Olomouc,13,00  Blahoslavova,Z.MAŠÍNOVÁ,pohřeb
 
 22.6.pondělí Písek,seminář,posezení po akci
 
-**LWOV na 3dny vlakem** 1-5.7.2026 cca 1500 vše,ukrajina v praxi,provedeno.Dar předány.
+**LWOV na 3dny vlakem** 1-5.7.2026 cca 1500 vše,ukrajina v praxi,provedeno.Dary předány.
 
-14.7.ÚTERÝ PLZEN,Č.HRÁDEK,19,45 u ženíšků,menší setkání trampu,lezcu,turistu s novinkami přežití a UKRAJINY
+24.8.pondělí PLZEN,Č.HRÁDEK,19,45 u ženíšků,menší setkání trampu,lezcu,turistu s novinkami přežití a UKRAJINY
 
 
 
