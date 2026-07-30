@@ -31,6 +31,8 @@ Golem a Moje Židovská Duše, Martin VOPĚNKA,17.3.17,00 Písek-knihovna
 
 22.6.pondělí Písek,seminář,posezení po akci
 
+23.7.ODEŠLA nrtm.KATKA STEINOCHROVÁ,kmotřenka,s vojenskými poctami 4.8. 10,00 sv.Václav,Netolice
+
 **LWOV na 3dny vlakem** 26-30.8.2026 65eur,ukrajina v praxi.
 
 24.8.pondělí PLZEN,Č.HRÁDEK,19,45 u ženíšků,menší setkání trampu,lezcu,turistu s novinkami přežití a UKRAJINY
