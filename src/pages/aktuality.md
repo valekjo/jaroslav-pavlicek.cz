@@ -8,11 +8,11 @@ kdy,kde NAPIŠ: j.pavlicek@email.cz
 POTVRDÍM ,na př.24.8.pondělí 19,45 Červený hrádek,u ženíšků
 
 **(Ne)srozumitelná justice,knihovna Písek**
-pondělí, 13.10.2025 v 17,00 hodin, JUDr Lenka Bradáč
+pondělí, 13.10.2025 v 17,00 hodin, JUDr Lenka Bradáčová
 
 **Marek ORKO Vácha** :Tlačit věci do plusu,Písek,knihovna,14.1.2026 středa 17,00
 
-SAMSA-lucerna 15-18,00 středa 28.1. setkání 3roky od volby Pavla
+SAMSA-lucerna 15-18,00 středa 28.1. setkání 3roky od volby Petra Pavla
 
 **Ne-Srozumitelná justice**Zlín,hvězdarna,5.2,2026 18,00 Lenka Bradáčová
 
