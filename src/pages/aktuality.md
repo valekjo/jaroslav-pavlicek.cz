@@ -28,7 +28,7 @@ Golem a Moje Židovská Duše, Martin VOPĚNKA,17.3.17,00 Písek-knihovna
 
 **LWOV na 3dny vlakem** 26-30.8.2026 65eur,ukrajina v praxi.
 
-24.8.pondělí PLZEN,Č.HRÁDEK,19,45 u ženíšků,výcvik trosečníků
+24.8.pondělí PLZEN,Č.HRÁDEK,19,45 u ženíšků,výcvik trosečníků.
 
 
 
