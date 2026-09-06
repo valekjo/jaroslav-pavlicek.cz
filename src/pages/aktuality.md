@@ -5,7 +5,7 @@ layout: '../layouts/Layout.astro'
 # Aktuality
  VÝCVIK trosečníkú 45min.500kč,
 kdy,kde NAPIŠ: j.pavlicek@email.cz
-POTVRDÍM ,na př.24.8.pondělí 19,45 Červený hrádek,u ženíšků
+POTVRDÍM.
 
 **(Ne)srozumitelná justice,knihovna Písek**
 pondělí, 13.10.2025 v 17,00 hodin, JUDr Lenka Bradáčová
@@ -26,7 +26,7 @@ Golem a Moje Židovská Duše, Martin VOPĚNKA,17.3.17,00 Písek-knihovna
 
 23.7.ODEŠLA nrtm.KATKA STEINOCHROVÁ,21let,kmotřenka,s vojenskými poctami 4.8. 10,00 sv.Václav,Netolice
 
-
+30.9.-4.10. UKRAJINA vlakem.pomoc sanitakum a veteranum
 
 
 
