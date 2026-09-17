@@ -3,7 +3,7 @@ layout: '../layouts/Layout.astro'
 ---
 
 # Aktuality
- VÝCVIK trosečníkú 45min.
+ VÝCVIK trosečníkú 45min..
 kdy,kde NAPIŠ: j.pavlicek@email.cz
 POTVRDÍM.
 
