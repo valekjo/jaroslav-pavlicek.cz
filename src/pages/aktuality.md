@@ -26,7 +26,9 @@ Golem a Moje Židovská Duše, Martin VOPĚNKA,17.3.17,00 Písek-knihovna
 
 23.7.ODEŠLA nrtm.KATKA STEINOCHROVÁ,21let, moje kmotřenka,vrtulník po misii v Polsku,s vojenskými poctami ministr obrany,4.8. 10,00 sv.Václav,Netolice
 
-7.10.-11.10. UKRAJINA vlakem.pomoc sanitakum a veteranum
+9.10.VOLBY-STAN či KDU. 
+
+14.10.-18.10. UKRAJINA vlakem.pomoc sanitakum a veteranum
 
 5.10. 17,00 knihovna Písek OLGA LOMOVÁ,dvojí čína 
 
