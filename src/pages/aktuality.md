@@ -33,6 +33,7 @@ Golem a Moje Židovská Duše, Martin VOPĚNKA,17.3.17,00 Písek-knihovna
 14.10.-18.10. UKRAJINA vlakem.pomoc sanitakum a veteranum
 
 11.-17.11. UKRAJINA, pomoc invalidum a veteranům
+
 11.11. vernisaž Lucerna
 
 
