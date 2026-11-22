@@ -36,7 +36,7 @@ Golem a Moje Židovská Duše, Martin VOPĚNKA,17.3.17,00 Písek-knihovna
 
 11.11. vernisaž Lucerna
 
-27.11.Jindřichův Hradec,Zdeněk Bárta,občanská společnost 
+27.11.pátek,Třebon.gymnasium,17,00,Zdeněk Bárta,občanská společnost a její obrana
 
 
 
